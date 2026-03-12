@@ -2,7 +2,7 @@
 import pozaContact from '../assets/pozaCotact.jpg'
 // Aici vei completa cu datele reale ale domnului Avram
 const telefon = "0745779897"; 
-const email = "expert@criminalist.ro"; 
+const email = "adrianvavram@yahoo.com"; 
 const adresa = "Rm. Vâlcea, România"; 
 </script>
 
